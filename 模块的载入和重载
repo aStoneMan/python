@@ -1,0 +1,10 @@
+import 和 from import用来载入文件
+
+
+import script1
+使用script1的a变量  script1.a
+
+from script1 import a
+使用script1的a变量  a
+
+注意这里的第二种方法会导致一些变量被覆盖
