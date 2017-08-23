@@ -11,8 +11,8 @@ def load_page(url):
 	req = urllib2.Request(url,headers = headers)
 	response =urllib2.urlopen(req)
 	html = response.read()
-	print html
-	# return html
+	# print html
+	return html
 
 def write_to_file(file_name,txt):
 	'''
