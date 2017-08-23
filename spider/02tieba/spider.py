@@ -14,6 +14,21 @@ def load_page(url):
 	print html
 	# return html
 
+def write_to_file(file_name,txt):
+	'''
+		将txt文本 存入到file_name文件中
+	'''
+	print "正在存储文件" + file_name
+	# 1 打开文件
+	f = open(file_name,'w')
+	# 2 读写文件
+	f.write(txt)
+	# 3 关闭文件
+	f.close()
+
+
+
+
 def tieba_spider(url,begin_page,end_page):
 	'''
 		贴吧小爬虫
@@ -30,10 +45,11 @@ def tieba_spider(url,begin_page,end_page):
 		print my_url
 		html = load_page(my_url)
 
-		print "=====================第 %d 页================" %(i)
-		print html
-		print "=============================================" 
-
+		# print "=====================第 %d 页================" %(i)
+		# print html
+		# print "=============================================" 
+		file_name = str(i) + ".html"
+		write_to_file(file_name,html)
 
 #main
 if __name__ =="__main__":
