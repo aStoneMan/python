@@ -26,7 +26,7 @@ def write_to_file(file_name,txt):
 	# 3 关闭文件
 	f.close()
 
-
+ 
 
 
 def tieba_spider(url,begin_page,end_page):
