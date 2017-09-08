@@ -1,0 +1,117 @@
+-----------ssgxmj.com----------
+DNS5.HICHINA.COM
+DNS6.HICHINA.COM
+----------------------------
+-----------xlgymj.cn----------
+dns5.hichina.com
+dns6.hichina.com
+----------------------------
+-----------xlpdk.cn----------
+dns5.hichina.com
+dns6.hichina.com
+----------------------------
+-----------xlsxmj.com----------
+DNS10.HICHINA.COM
+DNS9.HICHINA.COM
+----------------------------
+-----------xianlaigame.com----------
+DNS5.HICHINA.COM
+DNS6.HICHINA.COM
+----------------------------
+-----------ixianlai.com----------
+NS3.DNSV2.COM
+ NS4.DNSV2.COM
+----------------------------
+-----------weile.com----------
+ns3.dnsv4.com
+ns4.dnsv4.com
+----------------------------
+-----------weilexingkong.com----------
+DNS17.HICHINA.COM
+DNS18.HICHINA.COM
+----------------------------
+-----------jixiang.cn----------
+ns3.dnsv4.com
+ns4.dnsv4.com
+----------------------------
+-----------wesai.com----------
+NS3.DNSV3.COM
+NS4.DNSV3.COM
+----------------------------
+-----------microbeam.cn----------
+ns1.ezdnscenter.com
+ns2.ezdnscenter.com
+ns3.ezdnscenter.com
+ns4.ezdnscenter.com
+ns5.ezdnscenter.com
+ns6.ezdnscenter.com
+----------------------------
+-----------kodgames.com----------
+NS3.DNSV3.COM
+NS4.DNSV3.COM
+----------------------------
+-----------tuyoo.com----------
+vip1.alidns.com 
+ vip2.alidns.com
+----------------------------
+-----------7cool.cn----------
+ns1.dns-diy.com
+ns2.dns-diy.com
+----------------------------
+-----------7cool.com----------
+F1G1NS1.DNSPOD.NET
+F1G1NS2.DNSPOD.NET
+----------------------------
+-----------mobike.com.cn----------
+dns10.hichina.com
+dns9.hichina.com
+----------------------------
+-----------mobike.com----------
+NS3.DNSV4.COM
+NS4.DNSV4.COM
+----------------------------
+-----------mobike.cn----------
+dns10.hichina.com
+----------------------------
+-----------ofo.so----------
+vip1.alidns.com
+ vip2.alidns.com
+----------------------------
+-----------beizhimai.com----------
+dns13.hichina.com
+ dns14.hichina.com
+----------------------------
+-----------ofo.gift----------
+dns10.hichina.com
+ dns9.hichina.com
+----------------------------
+-----------ofo.news----------
+dns10.hichina.com
+ dns9.hichina.com
+----------------------------
+-----------ofo.trade----------
+DNS9.HICHINA.COM
+ DNS10.HICHINA.COM
+----------------------------
+-----------ofobicycle.com----------
+DNS10.HICHINA.COM
+DNS9.HICHINA.COM
+----------------------------
+-----------ofobike.com----------
+DNS10.HICHINA.COM
+DNS9.HICHINA.COM
+----------------------------
+-----------speedx.com----------
+NS1.UNIREGISTRY-DNS.COM
+ NS1.UNIREGISTRY-DNS.NET
+ NS2.UNIREGISTRY-DNS.COM
+ NS2.UNIREGISTRY-DNS.NET
+----------------------------
+-----------hellobike.com----------
+dns10.hichina.com
+ dns9.hichina.com
+----------------------------
+-----------coolqi.com----------
+DNS10.HICHINA.COM
+DNS9.HICHINA.COM
+----------------------------
